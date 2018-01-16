@@ -1,0 +1,13 @@
+{
+  "name": "@festify/modern-webcomponents-loader",
+  "version": "0.1.0",
+  "description": "A webcomponents polyfill loader that doesn't load the HTML imports polyfill",
+  "main": "webcomponents-loader.js",
+  "repository": "https://github.com/Festify/modern-webcomponents-loader.git",
+  "author": "Festify Dev Team <mail+git@festify.rocks>",
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "@webcomponents/webcomponentsjs": "^1.0.22"
+  }
+}
