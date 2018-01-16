@@ -1,10 +1,10 @@
 {
-  "name": "@neolegends/modern-webcomponents-loader",
+  "name": "webcomponents-loader-no-hi",
   "version": "0.1.0",
   "description": "A webcomponents polyfill loader that doesn't load the HTML imports polyfill",
   "main": "webcomponents-loader.js",
-  "repository": "https://github.com/Festify/modern-webcomponents-loader.git",
-  "author": "Festify Dev Team <mail+git@festify.rocks>",
+  "repository": "https://github.com/NeoLegends/webcomponents-loader-no-hi.git",
+  "author": "Moritz Gunz <moritz.gunz@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
     "@webcomponents/webcomponentsjs": "^1.0.22"

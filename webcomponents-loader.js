@@ -29,7 +29,7 @@
         // Load it from the right place.
         var replacement = 'webcomponents-' + polyfills.join('-') + '.js';
         var url = script.src.replace(
-            '@neolegends/modern-webcomponents-loader/' + name,
+            'webcomponents-loader-no-hi/' + name,
             '@webcomponents/webcomponentsjs/' + replacement
         );
         newScript.src = url;
