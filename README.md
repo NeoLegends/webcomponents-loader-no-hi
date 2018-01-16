@@ -9,6 +9,6 @@ This is a polyfill-loader that works just like the one from webcomponents/webcom
 ## Usage
 
 1. Install this module and the web components polyfills from npm and deploy them to your site. The script expects a directory structure like npm / yarn would create for you. Simply deploy your node_modules folder (or certain subfolders of it) to the frontend and you should be good.
-2. Include a script tag in your site like `<script src="/node_modules/@festify/modern-webcomponents-loader/webcomponents-loader.js></script>`.
+2. Include a script tag in your site like `<script src="/node_modules/@neolegends/modern-webcomponents-loader/webcomponents-loader.js></script>`.
 3. The script will run and load the polyfills from `/<NODE_INSTALLATION_FOLDER>/@webcomponents/webcomponentsjs/`.
 4. Wait for the 'WebComponentsReady' event before doing webcomponent-y stuff on your page. Go check the official docs on that, though.
