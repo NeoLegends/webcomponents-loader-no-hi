@@ -1,5 +1,7 @@
 # modern-webcomponents-loader
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Festify/modern-webcomponents-loader.svg)](https://greenkeeper.io/)
+
 Did you ever build a site that uses web components but doesn't make use of HTML imports? This is for you.
 
 This is a polyfill-loader that works just like the one from webcomponents/webcomponentsjs but _doesn't_ load the HTML imports polyfill by default. HTML imports don't seem to make it to an accepted standard, so if you have a site that doesn't use them there is no need to bloat your site and polyfill that functionality.
