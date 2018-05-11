@@ -1,3 +1,7 @@
+# DEPRECATED
+
+Please use the official v2 polyfills instead, they don't include HTML Imports by default anymore. See https://github.com/webcomponents/webcomponentsjs.
+
 # webcomponents-loader-no-hi
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/NeoLegends/webcomponents-loader-no-hi.svg)](https://greenkeeper.io/)
